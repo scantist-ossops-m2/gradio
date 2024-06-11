@@ -1,5 +1,11 @@
 # @gradio/checkboxgroup
 
+## 0.5.7
+
+### Dependency updates
+
+- @gradio/statustracker@0.7.0
+
 ## 0.5.6
 
 ### Dependency updates

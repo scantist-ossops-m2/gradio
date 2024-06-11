@@ -1,5 +1,11 @@
 # @gradio/preview
 
+## 0.10.0
+
+### Features
+
+- [#8520](https://github.com/gradio-app/gradio/pull/8520) [`595ecf3`](https://github.com/gradio-app/gradio/commit/595ecf35da6cd5f9aa7d9135282d005b63fbdef1) - Add build target option to the custom component `gradio.config.js` file.  Thanks @pngwn!
+
 ## 0.9.1
 
 ### Fixes

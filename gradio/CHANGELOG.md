@@ -1,5 +1,22 @@
 # gradio
 
+## 4.37.0
+
+### Features
+
+- [#8520](https://github.com/gradio-app/gradio/pull/8520) [`595ecf3`](https://github.com/gradio-app/gradio/commit/595ecf35da6cd5f9aa7d9135282d005b63fbdef1) - Add build target option to the custom component `gradio.config.js` file.  Thanks @pngwn!
+- [#8489](https://github.com/gradio-app/gradio/pull/8489) [`c2a0d05`](https://github.com/gradio-app/gradio/commit/c2a0d056d679d90631d9ccd944dadd67e7e03b7f) - Control Display of Error, Info, Warning.  Thanks @freddyaboulton!
+- [#8488](https://github.com/gradio-app/gradio/pull/8488) [`b03da67`](https://github.com/gradio-app/gradio/commit/b03da67d8f17c36e78b47bfad78e30c94d577828) - Minor changes to monitoring.  Thanks @freddyaboulton!
+- [#8529](https://github.com/gradio-app/gradio/pull/8529) [`d43d696`](https://github.com/gradio-app/gradio/commit/d43d69648669da98a4fdf741071501e531b68d86) - feat: exception handling about file_count params of File component.  Thanks @young-hun-jo!
+- [#8516](https://github.com/gradio-app/gradio/pull/8516) [`de6aa2b`](https://github.com/gradio-app/gradio/commit/de6aa2b67668605b65ad92842b2c798afa2c6d8a) - Add helper classes to docs.  Thanks @aliabd!
+- [#8522](https://github.com/gradio-app/gradio/pull/8522) [`bdaa678`](https://github.com/gradio-app/gradio/commit/bdaa678d0c0a22250b41104f32e9121f98dc7437) - add handle_file docs.  Thanks @pngwn!
+
+### Fixes
+
+- [#8530](https://github.com/gradio-app/gradio/pull/8530) [`d429690`](https://github.com/gradio-app/gradio/commit/d429690611eacd7b19cf4609332b0c12c93a1591) - Fix request serialization for fastapi `/docs`.  Thanks @zhzLuke96!
+- [#8506](https://github.com/gradio-app/gradio/pull/8506) [`7c5fec3`](https://github.com/gradio-app/gradio/commit/7c5fec3a2606b7a40f4cdc60f2553ba55fc8df99) - Use root url for monitoring url.  Thanks @abidlabs!
+- [#8524](https://github.com/gradio-app/gradio/pull/8524) [`546d14e`](https://github.com/gradio-app/gradio/commit/546d14e4f2773f91be7afc37355327044e7cb6e6) - add test + demo.  Thanks @pngwn!
+
 ## 4.36.1
 
 ### Features
